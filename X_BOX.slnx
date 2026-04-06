@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="X_BOX/X_BOX.vcxproj" Id="7fc298d5-fe33-4904-8e20-70db70235c28" />
+</Solution>
